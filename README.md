@@ -31,7 +31,7 @@ Follow these steps to set up and run the project locally:
 
    npm run dev -for local
 
-   Use this Url to access the Application 'http://localhost:5173'.
+   Use this Url to access the Application 'https://cute-genie-cd0496.netlify.app/home'.
 
 ## Dependencies
 
