@@ -40,3 +40,8 @@ Follow these steps to set up and run the project locally:
 - React Router DOM
 - Tailwind CSS
 - Yup
+
+
+## Dummy data used in application (defined in service folder)
+cities
+buses 
