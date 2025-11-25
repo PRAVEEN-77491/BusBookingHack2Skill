@@ -20,7 +20,7 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the repository:**
 
-   git clone <repository-url>
+   git clone https://github.com/PRAVEEN-77491/BusBookingHack2Skill.git
    cd bus-ticket-booking
 
 2. **Install dependencies:**
